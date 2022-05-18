@@ -1,1 +1,1 @@
-# timetable-
+university-timetable-system
