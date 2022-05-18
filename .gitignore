@@ -8,10 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-<<<<<<< HEAD
 env/
-=======
->>>>>>> 661efe2d1c48239d2c9deb5ef50ed4c11a33f155
 build/
 develop-eggs/
 dist/
@@ -24,18 +21,9 @@ parts/
 sdist/
 var/
 wheels/
-<<<<<<< HEAD
 *.egg-info/
 .installed.cfg
 *.egg
-=======
-pip-wheel-metadata/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
->>>>>>> 661efe2d1c48239d2c9deb5ef50ed4c11a33f155
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -50,23 +38,13 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
-<<<<<<< HEAD
-=======
-.nox/
->>>>>>> 661efe2d1c48239d2c9deb5ef50ed4c11a33f155
 .coverage
 .coverage.*
 .cache
 nosetests.xml
 coverage.xml
 *.cover
-<<<<<<< HEAD
 .hypothesis/
-=======
-*.py,cover
-.hypothesis/
-.pytest_cache/
->>>>>>> 661efe2d1c48239d2c9deb5ef50ed4c11a33f155
 
 # Translations
 *.mo
@@ -75,11 +53,6 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
-<<<<<<< HEAD
-=======
-db.sqlite3
-db.sqlite3-journal
->>>>>>> 661efe2d1c48239d2c9deb5ef50ed4c11a33f155
 
 # Flask stuff:
 instance/
@@ -97,39 +70,15 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-<<<<<<< HEAD
 # pyenv
 .python-version
 
 # celery beat schedule file
 celerybeat-schedule
-=======
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-.python-version
-
-# pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies or dependencies
-#   having no cross-platform support, pipenv may install dependencies that don't work, or not
-#   install all needed dependencies.
-#Pipfile.lock
-
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
->>>>>>> 661efe2d1c48239d2c9deb5ef50ed4c11a33f155
 
 # SageMath parsed files
 *.sage.py
 
-<<<<<<< HEAD
 # dotenv
 .env
 
@@ -138,17 +87,6 @@ celerybeat.pid
 venv/
 ENV/
 .vscode
-=======
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
->>>>>>> 661efe2d1c48239d2c9deb5ef50ed4c11a33f155
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -161,11 +99,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-<<<<<<< HEAD
 
 .DS_Store
 *.sqlite3
-media/
+
 *.pyc
 *.db
 *.pid
@@ -176,10 +113,3 @@ media/
 # **/migrations/**
 # !**/migrations
 # !**/migrations/__init__.py
-=======
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
->>>>>>> 661efe2d1c48239d2c9deb5ef50ed4c11a33f155
